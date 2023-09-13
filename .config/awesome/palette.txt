@@ -1,0 +1,134 @@
+/* Coolors Exported Palette - https://coolors.co/402d38-81738b-c2b9de-92374c-b7989e-1f1319-9d6692-a3494c-994c66-a25c74 */
+
+/* CSS HEX */
+--dark-purple: #402d38ff;
+--mountbatten-pink: #81738bff;
+--periwinkle: #c2b9deff;
+--cordovan: #92374cff;
+--rosy-brown: #b7989eff;
+--licorice: #1f1319ff;
+--chinese-violet: #9d6692ff;
+--redwood: #a3494cff;
+--china-rose: #994c66ff;
+--china-rose-2: #a25c74ff;
+
+/* CSS HSL */
+--dark-purple: hsla(325, 17%, 21%, 1);
+--mountbatten-pink: hsla(275, 9%, 50%, 1);
+--periwinkle: hsla(255, 36%, 80%, 1);
+--cordovan: hsla(346, 45%, 39%, 1);
+--rosy-brown: hsla(348, 18%, 66%, 1);
+--licorice: hsla(330, 24%, 10%, 1);
+--chinese-violet: hsla(312, 22%, 51%, 1);
+--redwood: hsla(358, 38%, 46%, 1);
+--china-rose: hsla(340, 34%, 45%, 1);
+--china-rose-2: hsla(339, 28%, 50%, 1);
+
+/* SCSS HEX */
+$dark-purple: #402d38ff;
+$mountbatten-pink: #81738bff;
+$periwinkle: #c2b9deff;
+$cordovan: #92374cff;
+$rosy-brown: #b7989eff;
+$licorice: #1f1319ff;
+$chinese-violet: #9d6692ff;
+$redwood: #a3494cff;
+$china-rose: #994c66ff;
+$china-rose-2: #a25c74ff;
+
+/* SCSS HSL */
+$dark-purple: hsla(325, 17%, 21%, 1);
+$mountbatten-pink: hsla(275, 9%, 50%, 1);
+$periwinkle: hsla(255, 36%, 80%, 1);
+$cordovan: hsla(346, 45%, 39%, 1);
+$rosy-brown: hsla(348, 18%, 66%, 1);
+$licorice: hsla(330, 24%, 10%, 1);
+$chinese-violet: hsla(312, 22%, 51%, 1);
+$redwood: hsla(358, 38%, 46%, 1);
+$china-rose: hsla(340, 34%, 45%, 1);
+$china-rose-2: hsla(339, 28%, 50%, 1);
+
+/* SCSS RGB */
+$dark-purple: rgba(64, 45, 56, 1);
+$mountbatten-pink: rgba(129, 115, 139, 1);
+$periwinkle: rgba(194, 185, 222, 1);
+$cordovan: rgba(146, 55, 76, 1);
+$rosy-brown: rgba(183, 152, 158, 1);
+$licorice: rgba(31, 19, 25, 1);
+$chinese-violet: rgba(157, 102, 146, 1);
+$redwood: rgba(163, 73, 76, 1);
+$china-rose: rgba(153, 76, 102, 1);
+$china-rose-2: rgba(162, 92, 116, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #402d38ff, #81738bff, #c2b9deff, #92374cff, #b7989eff, #1f1319ff, #9d6692ff, #a3494cff, #994c66ff, #a25c74ff);
+$gradient-right: linear-gradient(90deg, #402d38ff, #81738bff, #c2b9deff, #92374cff, #b7989eff, #1f1319ff, #9d6692ff, #a3494cff, #994c66ff, #a25c74ff);
+$gradient-bottom: linear-gradient(180deg, #402d38ff, #81738bff, #c2b9deff, #92374cff, #b7989eff, #1f1319ff, #9d6692ff, #a3494cff, #994c66ff, #a25c74ff);
+$gradient-left: linear-gradient(270deg, #402d38ff, #81738bff, #c2b9deff, #92374cff, #b7989eff, #1f1319ff, #9d6692ff, #a3494cff, #994c66ff, #a25c74ff);
+$gradient-top-right: linear-gradient(45deg, #402d38ff, #81738bff, #c2b9deff, #92374cff, #b7989eff, #1f1319ff, #9d6692ff, #a3494cff, #994c66ff, #a25c74ff);
+$gradient-bottom-right: linear-gradient(135deg, #402d38ff, #81738bff, #c2b9deff, #92374cff, #b7989eff, #1f1319ff, #9d6692ff, #a3494cff, #994c66ff, #a25c74ff);
+$gradient-top-left: linear-gradient(225deg, #402d38ff, #81738bff, #c2b9deff, #92374cff, #b7989eff, #1f1319ff, #9d6692ff, #a3494cff, #994c66ff, #a25c74ff);
+$gradient-bottom-left: linear-gradient(315deg, #402d38ff, #81738bff, #c2b9deff, #92374cff, #b7989eff, #1f1319ff, #9d6692ff, #a3494cff, #994c66ff, #a25c74ff);
+$gradient-radial: radial-gradient(#402d38ff, #81738bff, #c2b9deff, #92374cff, #b7989eff, #1f1319ff, #9d6692ff, #a3494cff, #994c66ff, #a25c74ff);
+
+--grape: #532DB0ff;
+--violet-web-color: #EC7EE2ff;
+--picton-blue: #5CB3E0ff;
+--indigo: #4D1676ff;
+--russian-violet: #311659ff;
+--rebecca-purple: #53439Bff;
+--charcoal: #404450ff;
+--thistle: #EECFF0ff;
+--russian-violet-2: #26133Eff;
+--magnolia: #FAEFFCff;
+--russian-violet: #311659ff;
+--charcoal: #404450ff;
+--african-violet: #AD8AB3ff;
+--russian-violet-2: #26133Eff;
+--grape: #6A15ACff;
+--rebecca-purple: #53439Bff;
+--black: #000000ba;
+--lavender-web: #E4DBF1ff;
+--grape-2: #532DB0ff;
+--pale-purple: #F9DEFBff;
+
+
+--magenta: #F7008Dff;
+--tiffany-blue: #8EE3E7ff;
+--magnolia: #FEF7FFff;
+--iris: #6342CAff;
+--medium-slate-blue: #766BDAff;
+--yinmn-blue: #3A5873ff;
+--uranian-blue: #A9D8FDff;
+--pale-purple: #F3DBEEff;
+--pink-lavender: #E2AFD0ff;
+--mulberry: #C9608Eff;
+
+--picton-blue: #5CB3E0ff;
+--violet-web-color: #EC7EE2ff;
+--pale-purple: #F9DEFBff;
+--thistle: #EECFF0ff;
+--grape: #6A15ACff;
+--charcoal: #404450ff;
+--violet-web-color-2: #EB7FDEff;
+--wisteria: #BFA4E2ff;
+--plum-web: #EBA7EAff;
+--rebecca-purple: #53439Bff;
+--rebecca-blue: #CDF5ff;
+--picton-blue: #5cb3e0ff;
+--violet-web-color: #ec7ee2ff;
+--plum-web: #eda7e9ff;
+--heliotrope: #cc85fdff;
+--plum-web-2: #eba7eaff;
+
+--medium-slate-blue: #8970D7;
+--uranian-blue: #b7d9f6ff;
+--columbia-blue: #d3e7fcff;
+--iris: #6342caff;
+--lavender-floral: #c783d9ff;
+--wisteria: #d0ace8ff;
+--ghost-white: #fdfafeff;
+--pale-purple: #f3dbeeff;
+--magenta: #9f3664;
+--vista-blue: #7596e4ff;
+#6b2443

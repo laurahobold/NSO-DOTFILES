@@ -1,0 +1,19 @@
+[Added Associations]
+application/x-executable=apturl.desktop;nemo-autorun-software.desktop;
+text/x-lua=xed.desktop;
+application/vnd.appimage=org.gnome.FileRoller.desktop;
+text/x-cmake=apturl.desktop;
+application/x-shellscript=nemo-autorun-software.desktop;apturl.desktop;vim.desktop;
+application/octet-stream=gcr-prompter.desktop;
+image/png=pix.desktop;
+image/webp=pix.desktop;
+image/jpeg=pix.desktop;
+image/gif=pix.desktop;
+video/x-msvideo=kazam.desktop;hypnotix.desktop;
+inode/directory=thunar.desktop;
+application/json=xed.desktop;
+application/x-desktop=code_code.desktop;
+
+[Default Applications]
+text/x-lua=xed.desktop
+image/jpeg=pix.desktop
